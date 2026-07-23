@@ -468,9 +468,8 @@ flutter run
 
 **✏️ ทดลองแก้ไข D:** ใน Row เพิ่ม Container D สีม่วง ขนาด 80×80 ต่อจาก C
 **บันทึกรูปผลการทดลอง**
-```
-บันทึกรูปที่นี่
-```
+<img width="1308" height="947" alt="image" src="https://github.com/user-attachments/assets/d0d314a7-a0ae-4628-b2b0-d4642f1bf781" />
+
 ---
 
 ### การทดลองที่ 3 — StatelessWidget แรก
