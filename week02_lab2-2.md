@@ -1471,8 +1471,10 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.teal),
 <img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/46c1149b-1e80-48d0-a7b5-4ac0a1ea1244" />
 
 **โจทย์ C (กลาง):** ใน Form Page เพิ่ม Dropdown เลือก "ภาษาของคำทักทาย" (ไทย / อังกฤษ / ญี่ปุ่น) และเปลี่ยนข้อความคำทักทายตามภาษาที่เลือก
+<img width="1898" height="1022" alt="image" src="https://github.com/user-attachments/assets/022dae65-f494-4ab6-b3f3-7a0dfa11c350" />
 
 **โจทย์ D (ยาก):** สร้าง Tab ใหม่ "Todo List" ที่มี TextField รับชื่องาน, ปุ่ม Add, รายการ Todo ที่กดติ๊กถูก/ลบได้ และแสดงจำนวนงานที่เหลือ
+<img width="1916" height="1022" alt="image" src="https://github.com/user-attachments/assets/66d0163a-2ac6-41eb-87b8-a291385b2e1b" />
 
 ---
 
