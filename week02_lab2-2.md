@@ -1467,6 +1467,8 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.teal),
 <img width="1912" height="1020" alt="image" src="https://github.com/user-attachments/assets/9075fd4b-1fd2-4e0f-8b3b-b86de293aa64" />
 
 **โจทย์ B (กลาง):** ใน Counter Page เพิ่ม History ที่บันทึกทุกการกระทำ (เพิ่ม/ลด/Reset) พร้อมเวลา เช่น "14:30:25 — เพิ่ม 5 (รวม: 15)" แสดงเป็น List ด้านล่าง Counter และมีปุ่ม "ล้าง History"
+<img width="1900" height="927" alt="image" src="https://github.com/user-attachments/assets/98602953-21dd-40aa-8dcf-df6b5cd5a023" />
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/46c1149b-1e80-48d0-a7b5-4ac0a1ea1244" />
 
 **โจทย์ C (กลาง):** ใน Form Page เพิ่ม Dropdown เลือก "ภาษาของคำทักทาย" (ไทย / อังกฤษ / ญี่ปุ่น) และเปลี่ยนข้อความคำทักทายตามภาษาที่เลือก
 
