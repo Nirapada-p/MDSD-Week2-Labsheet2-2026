@@ -987,7 +987,10 @@ import 'dart:async';
 
 
 **✏️ ทดลองแก้ไข H:** ลองลบ `_timer?.cancel()` ใน `dispose()` แล้วสังเกต — ใน Debug Console อาจเห็น Warning "setState() called after dispose()" หลังจากออกจากหน้า แล้วใส่กลับคืน
-
+<img width="1910" height="967" alt="image" src="https://github.com/user-attachments/assets/7815a717-b4af-4d25-b2fb-5e21e2bbeadd" />
+```
+พยายามทดลองตามอาจารย์ลบ สร้างใหม่อยู่หลายครั้งแต่ไม่พบ Warning "setState() called after dispose()" 
+```
 ---
 
 ### การทดลองที่ 7 — รวมทุกส่วนเป็นแอปสมบูรณ์
