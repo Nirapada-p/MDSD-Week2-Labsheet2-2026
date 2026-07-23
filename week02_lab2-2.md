@@ -865,11 +865,11 @@ class _GreetingFormState extends State<GreetingForm> {
 **ขั้นตอนที่ 3** บันทึกและทดสอบ — กรอกชื่อแล้วกดปุ่ม
 
 **บันทึกรูปผลการทดลอง**
-```
-บันทึกรูปที่นี่
-```
+<img width="1335" height="506" alt="image" src="https://github.com/user-attachments/assets/f0a39b7d-d37b-4924-be19-b4c12c139160" />
+
 
 **✏️ ทดลองแก้ไข G:** ทดลองกดปุ่มโดยไม่กรอกชื่อ สังเกตว่า Error Message ปรากฏ และกดปุ่ม Reset (clear field) แล้วสังเกตว่า Error หายไป
+<img width="1322" height="493" alt="image" src="https://github.com/user-attachments/assets/c1347d12-18d2-4b79-b7b7-2232ef5f70c8" />
 
 ---
 
